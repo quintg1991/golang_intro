@@ -20,6 +20,7 @@ func main() {
 	var iterations int
 
 	// Get first input
+	// The & operator returns the actual address of the variable
 	fmt.Print("Enter the first word: ")
 	fmt.Scanln(&first)
 
