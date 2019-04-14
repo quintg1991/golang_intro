@@ -1,0 +1,1 @@
+This project is an introductry lession using the go programming language
